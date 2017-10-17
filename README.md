@@ -103,5 +103,5 @@ template{display:none}
 
 深入html5shiv
 
-html5shiv可以说是解决html5兼容问题的一个小框架。阅读并html5shiv源代码有助于理解html5shiv的工作原理，并学会自己开发一套符合工作需要的html5框架来支持html5。
-- https://github.com/aFarkas/html5shiv
+html5shiv可以说是解决html5兼容问题的一个小框架。阅读并[html5shiv源代码](https://github.com/aFarkas/html5shiv)有助于理解html5shiv的工作原理，并学会自己开发一套符合工作需要的html5框架来支持html5。
+
